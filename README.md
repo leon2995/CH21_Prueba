@@ -6,7 +6,7 @@ Primeros pasos de Git y GitHub
 
 1. git clone [url]
 2. git remove -v
-3.git add .
-4.git commit -m "mensaje" 
-5.git push origin main
+3. git add .
+4. git commit -m "mensaje" 
+5. git push origin main
 
